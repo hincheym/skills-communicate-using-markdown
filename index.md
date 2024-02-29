@@ -5,3 +5,6 @@ added an H1 header
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] List is created
+- [x] List is complete
+- [ ] List is incomplete
